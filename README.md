@@ -23,4 +23,4 @@ Provide region-specific transportation options.
 3) User chooses the option he wants. 
 4) a. If an application matching choice (3) is available on the user's platform, the user is prompted to switch to that application. 
  b.Otherwise, the application makes an attempt to provide transportation plan within the map application
-5) User completes transportation option scheduling and 
+5) User completes transportation option scheduling; payment is settled electronically.
